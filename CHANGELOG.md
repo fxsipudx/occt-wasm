@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.8.3](https://github.com/andymai/occt-wasm/compare/v3.8.2...v3.8.3) (2026-08-01)
+
+
+### Bug Fixes
+
+* **deps:** bump wasmtime to 46.0.2 past RUSTSEC-2026-0222/0223 ([#240](https://github.com/andymai/occt-wasm/issues/240)) ([c219451](https://github.com/andymai/occt-wasm/commit/c219451feb6d86aa3cec823d044ef112305e6761))
+
 ## [3.8.2](https://github.com/andymai/occt-wasm/compare/v3.8.1...v3.8.2) (2026-07-31)
 
 
